@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mcjethro Kalu
+- 👀 I’m interested in Frontend web development
+- 🌱 I’m currently learning Frontend web development
+- 💞️ I’m looking to collaborate on web dev projects
+- 📫 You can reach me on twitter @kalu_mcjethro or send an email to kalumcjethro@gmail.com 
